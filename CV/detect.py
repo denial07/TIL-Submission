@@ -1,1 +1,1 @@
-hihi 
+hihi print("hello")
